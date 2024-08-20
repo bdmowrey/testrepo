@@ -1,3 +1,5 @@
 # testrepo
-Coursera - Getting Started with Git and GitHub
-## Made changes to this file
+
+## Editing the file
+
+Its a markdown file in this repository
